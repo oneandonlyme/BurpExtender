@@ -7,7 +7,7 @@
     - Mac OS X ($ brew install jython - 터미널 설치)
     
 #### Windows 환경 설정
-1. Jython 홈페이지에서 jython x.x.x - `Standalon Jar`를 다운
+1. Jython 홈페이지에서 jython 2.7.1 - `Standalon Jar`를 다운
 2. Extender - Options - Python Environment 에서 다운받은 jar를 추가
 
 #### Mac OS X 환경 설정
